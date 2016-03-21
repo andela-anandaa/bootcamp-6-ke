@@ -15,7 +15,7 @@ student = {
 }
 ```
 
-**Tasks 1:**
+**Task 1:**
 
 Create a function `add_student` that takes a `student` dictionary as a parameter, and adds the `student` in a list of `students`.
 
