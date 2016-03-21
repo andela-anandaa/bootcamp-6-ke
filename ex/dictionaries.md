@@ -16,6 +16,7 @@ student = {
 ```
 
 **Tasks 1:**
+
 Create a function `add_student` that takes a `student` dictionary as a parameter, and adds the `student` in a list of `students`.
 
 ```python
@@ -24,6 +25,7 @@ def add_student(student):
 ```
 
 **Task 2:**
+
 Write a function `oldest_student` that finds the oldest student.
 
 ```python
@@ -32,6 +34,7 @@ def oldest_student:
 ```
 
 **Task 3:**
+
 Write a function `student_lang` that takes in a parameter `lang` and returns a list containing names of students who know that language.
 
 ```python
